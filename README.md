@@ -20,4 +20,8 @@ In order to run this script you must have `python 3.x` installed on your system.
 2. Open up your Shell on linux or CMD on windows.
 3. Navigate to where the file is located.
 4. run following command
-    python fetch-torrent.py d:/torrent_downloads Moana 720p
+
+    `python fetch-torrent.py d:/torrent_downloads Moana 720p`
+5. Script will try to find torrents that have 'Moana' and '720p' in their names.
+6. If it finds some matching torrent it will automaticaly download the torrent to `d:/torrent_downloads` then add that torrent to utorrent.
+7. if the downlaod path does not exists it will exit with appropriate error.
