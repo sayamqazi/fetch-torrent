@@ -13,3 +13,11 @@ A python script to find torrents on popular sites with given search keywords at 
 ### Requirements
 
 In order to run this script you must have `python 3.x` installed on your system.
+
+### Usage tutorial
+
+1. Download the `fetch-torrent.py` file `from fetch-torrent/source` direcotry.
+2. Open up your Shell on linux or CMD on windows.
+3. Navigate to where the file is located.
+4. run following command
+    python fetch-torrent.py d:/torrent_downloads Moana 720p
