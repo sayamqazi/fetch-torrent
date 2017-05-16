@@ -9,3 +9,7 @@ A python script to find torrents on popular sites with given search keywords at 
 2. https://rar.bg
 3. https://yts.ag
 4. https://extratorrent.cc
+
+### Requirements
+
+In order to run this script you must have `python 3.x` installed on your system.
