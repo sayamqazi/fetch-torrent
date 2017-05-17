@@ -5,7 +5,7 @@ A python script to find torrents on popular sites with given search keywords at 
 Right now if you run the script it will find torrent on https://torrentproject.se and just output the torrent url.
 ### Supported Torrent Sites
 
-1. https://extratorrent.cc
+1. https://1337x.to
 2. https://rar.bg
 3. https://yts.ag
 4. ~~https://extratorrent.cc~~ * extra torren has been shut down
