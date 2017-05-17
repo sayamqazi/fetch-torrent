@@ -8,7 +8,7 @@ Right now if you run the script it will find torrent on https://torrentproject.s
 1. https://extratorrent.cc
 2. https://rar.bg
 3. https://yts.ag
-4. https://extratorrent.cc
+4. https://extratorrent.cc * extra torren has been shut down
 
 ### Requirements
 
